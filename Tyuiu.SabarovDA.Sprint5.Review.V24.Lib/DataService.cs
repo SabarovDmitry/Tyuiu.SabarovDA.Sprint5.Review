@@ -47,6 +47,7 @@ namespace Tyuiu.SabarovDA.Sprint5.Review.V24.Lib
                             else
                             {
                                 strLine += line[i];
+
                             }
                         }
                     }
